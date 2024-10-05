@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Shinanozzz
+Nơi tôi code vài thứ vớ va vớ vẩn linh ta linh tinh.
 <!--
 **shinanozzz/shinanozzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
